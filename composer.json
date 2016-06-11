@@ -11,7 +11,7 @@
             "email":  "schmittjoh@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "symfony/framework-bundle": ">=2.1,<2.2-dev",
         "nikic/php-parser": "0.9.5",
